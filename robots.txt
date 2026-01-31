@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vashsite.rs/sitemap.xml
+Sitemap: https://elektricar-novibeograd.rs/sitemap.xml
